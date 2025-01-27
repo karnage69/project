@@ -39,6 +39,7 @@ print (f"all sorted marks are{l}")"""
 """l = [2,3,4,5]
 print(sum(l))"""
 #WAP to count the number of zeroes in list 
-l = [7,0,8,0,0,9]
+"""l = [7,0,8,0,0,9]
 n= l.count(0)
-print(n)
+print(n)"""
+
